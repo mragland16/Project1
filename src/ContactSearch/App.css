@@ -1,0 +1,35 @@
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+        width: 50%;
+        border: 3px red
+        padding: 60px;
+        marginLeft: auto;
+        marginRight: auto;
+        background-color: gray
+
+}
+
+.formstyle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+        width: 50%;
+        border: 3px solid green;
+        padding: 60px;
+        margin-left: auto;
+        margin-right: auto;
+        
+      }
+
+      .submitbtn {
+
+padding: 10px;
+margin: 100px
+        background-color: aliceblue;
+        border-color: brown;
+        margin-left: auto;
+        margin-right: auto;
+      }
